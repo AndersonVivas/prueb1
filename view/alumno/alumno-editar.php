@@ -3,7 +3,7 @@
 </h1>
 
 <ol>
-  <li><a href="?c=Alumno">Alumnos</a></li>
+  <li><a href="?c=Alumno">Anderson Vivas</a></li>
   <li><?php echo $alm->id != null ? $alm->Nombre : 'Nuevo Registro'; ?></li>
 </ol>
 
