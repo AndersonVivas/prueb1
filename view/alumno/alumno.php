@@ -1,7 +1,7 @@
-<h1>Alumnos</h1>
+<h1>Anderson Vivas</h1>
 
 <div>
-    <a href="?c=Alumno&a=Crud">Nuevo alumno</a>
+    <a href="?c=Alumno&a=Crud">nuevo alumno</a>
 </div>
 
 <table>
